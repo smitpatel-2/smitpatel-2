@@ -18,8 +18,7 @@
 <a href="https://instagram.com/smit.__patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smit.__patel" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitpatel-2&show_icons=true&locale=en&layout=compact" alt="smitpatel-2" /></p>
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitpatel-2&show_icons=true&locale=en&layout=compact" alt="smitpatel-2" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitpatel-2&show_icons=true&locale=en" alt="smitpatel-2" /></p>
 
 <p> <center> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitpatel-2&" alt="smitpatel-2" /> </p>
